@@ -1,5 +1,5 @@
 url: daniel-burgos.github.io/portfolio
-theme: agency-jekyll-theme
+baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Daniel Casanova Portfolio
