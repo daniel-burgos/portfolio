@@ -1,10 +1,11 @@
-url: daniel-burgos.github.io
+url: https://daniel-burgos.github.io
 baseurl: /portfolio/
 
 # Site settings
-title: Daniel Casanova Portfolio
-email: dubcasanova@gmail.com
-description: "Daniel Casanova Portfolio"
+title: Awesome Title
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
 
 # Team names, titles and social links
 people:
