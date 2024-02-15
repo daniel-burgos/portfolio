@@ -1,6 +1,6 @@
 ---
 title: FAIR4HEALTH: AIM AHEAD  
-subtitle: Curriculum Design 
+subtitle: Website Design 
 layout: default
 modal-id: 1
 date: 2022-08-01
@@ -9,6 +9,6 @@ thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: August 2022
 client: University of Houston
-category: Instructional Design 
+category: Web Development
 description: For this project I served as an instructional designer under the guidance of Dr. Susie Gronseth. This was a collaboration between the College of Education and the Computational Biomedicine Lab at the University of Houston. My role in this project was to convert a part of in person trainings that were delivered to graduate students from underrepresented communities on the best practices when it comes to conducting open research, into an online offering that would eventually be published in Coursera. 
 ---
