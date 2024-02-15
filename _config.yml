@@ -9,26 +9,26 @@ description: "Daniel Casanova's Portfolio."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: 
+  pic: 
+  position: 
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-- name: Kay Garland
+    - title: 
+      url:
+    - title:
+      url:
+    - title:
+      url: 
+- name: Daniel Casanova
   pic: 2
-  position: Lead Designer
+  position: Instructional Designer/Teacher
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/daniel-casanova-58248420b/
+    - title: 
+      url: 
+    - title: 
+      url: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
